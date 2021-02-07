@@ -1,7 +1,7 @@
 {
 	"name": "scroll-to-top",
 	"main": "./lib/scrollToTop",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "Add scroll to top and scroll to bottom functionality to inkdrop",
 	"keywords": [],
 	"repository": "https://github.com/keith0305/inkdrop-plugin-scroll-to-top",
