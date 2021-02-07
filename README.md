@@ -1,6 +1,8 @@
 # Scroll To Top Inkdrop Plugin
 Provides Scroll To Top and Scroll To Bottom navigation for Inkdrop.
 
+![Screenshot](./resources/img/screenshot-main.jpg)
+
 
 ## Usage
 There are 4 ways to use this plugin:
