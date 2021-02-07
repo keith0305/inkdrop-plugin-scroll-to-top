@@ -1,0 +1,38 @@
+{
+	"context-menu": {
+		".CodeMirror": [
+			{
+				"label": "Scroll To Top",
+				"command": "scrollToTop:scrollToTop"
+			},
+			{
+				"label": "Scroll To Bottom",
+				"command": "scrollToTop:scrollToBottom"
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Plugins",
+			"submenu": [
+				{
+					"label": "Scroll To Top",
+					"submenu": [
+						{
+							"label": "Toggle Floating Buttons",
+							"command": "scrollToTop:toggleFloatingBtns"
+						},
+						{
+							"label": "Scroll To Top",
+							"command": "scrollToTop:scrollToTop"
+						},
+						{
+							"label": "Scroll To Bottom",
+							"command": "scrollToTop:scrollToBottom"
+						}
+					]
+				}
+			]
+		}
+	]
+}

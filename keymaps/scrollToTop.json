@@ -1,0 +1,6 @@
+{
+	"body": {
+		"alt-pageup": "scrollToTop:scrollToTop",
+		"alt-pagedown": "scrollToTop:scrollToBottom"
+	}
+}

@@ -1,0 +1,30 @@
+.mde-layout {
+	position: relative;
+}
+.scrollToTopContainer {
+	position: absolute;
+	bottom: calc(~'86px + 1.3rem');
+	right: 0.75rem;
+	z-index: 100;
+}
+
+.btnSTT {
+	// background-color: var(--note-list-view-item-active-background);
+	color: var(--light-text-color);
+	background-color: var(--note-list-bar-background);
+	padding: 0.5rem;
+	border-radius: 0.35rem;
+	cursor: pointer;
+	border: 1px solid transparent;
+	
+	&.toTop {
+		margin-bottom: 0.5rem;
+	}
+	
+	&:hover {
+		// background-color: var(--note-list-view-item-active-background);
+		// border-color: var(--note-list-bar-background);
+		border-color: currentcolor;
+	}
+}
+
